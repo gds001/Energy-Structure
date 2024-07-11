@@ -1,0 +1,791 @@
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ pop=ChelpG opt=z-matrix
+
+Title: Rab = 2.1361 Optimization
+
+0 1
+ F
+ X                    1     1. 
+ H                    1    Rah      2     90. 
+ N                    1    Rab      2     90.      3    0.0        0
+ H                    4    R1       3    A1       2     0.       0
+ H                    4    R1       3    A1       2     120.     0
+ H                    4    R1       3    A1       2    -120.     0
+       Variables:
+  R1                   1.0125                   
+  A1                  111.5610       
+  Rah                   0.9572      
+               
+  Rab                   2.1361     
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ pop=ChelpG opt=z-matrix
+
+Title: Rab = 2.2361 Optimization
+
+0 1
+ F
+ X                    1     1. 
+ H                    1    Rah      2     90. 
+ N                    1    Rab      2     90.      3    0.0        0
+ H                    4    R1       3    A1       2     0.       0
+ H                    4    R1       3    A1       2     120.     0
+ H                    4    R1       3    A1       2    -120.     0
+       Variables:
+  R1                   1.0125                   
+  A1                  111.5610       
+  Rah                   0.9572      
+               
+  Rab                   2.2361     
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ pop=ChelpG opt=z-matrix
+
+Title: Rab = 2.3361 Optimization
+
+0 1
+ F
+ X                    1     1. 
+ H                    1    Rah      2     90. 
+ N                    1    Rab      2     90.      3    0.0        0
+ H                    4    R1       3    A1       2     0.       0
+ H                    4    R1       3    A1       2     120.     0
+ H                    4    R1       3    A1       2    -120.     0
+       Variables:
+  R1                   1.0125                   
+  A1                  111.5610       
+  Rah                   0.9572      
+               
+  Rab                   2.3361     
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ pop=ChelpG opt=z-matrix
+
+Title: Rab = 2.4361 Optimization
+
+0 1
+ F
+ X                    1     1. 
+ H                    1    Rah      2     90. 
+ N                    1    Rab      2     90.      3    0.0        0
+ H                    4    R1       3    A1       2     0.       0
+ H                    4    R1       3    A1       2     120.     0
+ H                    4    R1       3    A1       2    -120.     0
+       Variables:
+  R1                   1.0125                   
+  A1                  111.5610       
+  Rah                   0.9572      
+               
+  Rab                   2.4361     
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ pop=ChelpG opt=z-matrix
+
+Title: Rab = 2.5361 Optimization
+
+0 1
+ F
+ X                    1     1. 
+ H                    1    Rah      2     90. 
+ N                    1    Rab      2     90.      3    0.0        0
+ H                    4    R1       3    A1       2     0.       0
+ H                    4    R1       3    A1       2     120.     0
+ H                    4    R1       3    A1       2    -120.     0
+       Variables:
+  R1                   1.0125                   
+  A1                  111.5610       
+  Rah                   0.9572      
+               
+  Rab                   2.5361     
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ pop=ChelpG opt=z-matrix
+
+Title: Rab = 2.6361 Optimization
+
+0 1
+ F
+ X                    1     1. 
+ H                    1    Rah      2     90. 
+ N                    1    Rab      2     90.      3    0.0        0
+ H                    4    R1       3    A1       2     0.       0
+ H                    4    R1       3    A1       2     120.     0
+ H                    4    R1       3    A1       2    -120.     0
+       Variables:
+  R1                   1.0125                   
+  A1                  111.5610       
+  Rah                   0.9572      
+               
+  Rab                   2.6361     
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ pop=ChelpG opt=z-matrix
+
+Title: Rab = 2.7361 Optimization
+
+0 1
+ F
+ X                    1     1. 
+ H                    1    Rah      2     90. 
+ N                    1    Rab      2     90.      3    0.0        0
+ H                    4    R1       3    A1       2     0.       0
+ H                    4    R1       3    A1       2     120.     0
+ H                    4    R1       3    A1       2    -120.     0
+       Variables:
+  R1                   1.0125                   
+  A1                  111.5610       
+  Rah                   0.9572      
+               
+  Rab                   2.7361     
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ pop=ChelpG opt=z-matrix
+
+Title: Rab = 2.8361 Optimization
+
+0 1
+ F
+ X                    1     1. 
+ H                    1    Rah      2     90. 
+ N                    1    Rab      2     90.      3    0.0        0
+ H                    4    R1       3    A1       2     0.       0
+ H                    4    R1       3    A1       2     120.     0
+ H                    4    R1       3    A1       2    -120.     0
+       Variables:
+  R1                   1.0125                   
+  A1                  111.5610       
+  Rah                   0.9572      
+               
+  Rab                   2.8361     
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ pop=ChelpG opt=z-matrix
+
+Title: Rab = 2.9361 Optimization
+
+0 1
+ F
+ X                    1     1. 
+ H                    1    Rah      2     90. 
+ N                    1    Rab      2     90.      3    0.0        0
+ H                    4    R1       3    A1       2     0.       0
+ H                    4    R1       3    A1       2     120.     0
+ H                    4    R1       3    A1       2    -120.     0
+       Variables:
+  R1                   1.0125                   
+  A1                  111.5610       
+  Rah                   0.9572      
+               
+  Rab                   2.9361     
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ pop=ChelpG opt=z-matrix
+
+Title: Rab = 3.0361 Optimization
+
+0 1
+ F
+ X                    1     1. 
+ H                    1    Rah      2     90. 
+ N                    1    Rab      2     90.      3    0.0        0
+ H                    4    R1       3    A1       2     0.       0
+ H                    4    R1       3    A1       2     120.     0
+ H                    4    R1       3    A1       2    -120.     0
+       Variables:
+  R1                   1.0125                   
+  A1                  111.5610       
+  Rah                   0.9572      
+               
+  Rab                   3.0361     
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ pop=ChelpG opt=z-matrix
+
+Title: Rab = 3.1361 Optimization
+
+0 1
+ F
+ X                    1     1. 
+ H                    1    Rah      2     90. 
+ N                    1    Rab      2     90.      3    0.0        0
+ H                    4    R1       3    A1       2     0.       0
+ H                    4    R1       3    A1       2     120.     0
+ H                    4    R1       3    A1       2    -120.     0
+       Variables:
+  R1                   1.0125                   
+  A1                  111.5610       
+  Rah                   0.9572      
+               
+  Rab                   3.1361     
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ pop=ChelpG opt=z-matrix
+
+Title: Rab = 3.2361 Optimization
+
+0 1
+ F
+ X                    1     1. 
+ H                    1    Rah      2     90. 
+ N                    1    Rab      2     90.      3    0.0        0
+ H                    4    R1       3    A1       2     0.       0
+ H                    4    R1       3    A1       2     120.     0
+ H                    4    R1       3    A1       2    -120.     0
+       Variables:
+  R1                   1.0125                   
+  A1                  111.5610       
+  Rah                   0.9572      
+               
+  Rab                   3.2361     
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ pop=ChelpG opt=z-matrix
+
+Title: Rab = 3.3361 Optimization
+
+0 1
+ F
+ X                    1     1. 
+ H                    1    Rah      2     90. 
+ N                    1    Rab      2     90.      3    0.0        0
+ H                    4    R1       3    A1       2     0.       0
+ H                    4    R1       3    A1       2     120.     0
+ H                    4    R1       3    A1       2    -120.     0
+       Variables:
+  R1                   1.0125                   
+  A1                  111.5610       
+  Rah                   0.9572      
+               
+  Rab                   3.3361     
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ pop=ChelpG opt=z-matrix
+
+Title: Rab = 3.4361 Optimization
+
+0 1
+ F
+ X                    1     1. 
+ H                    1    Rah      2     90. 
+ N                    1    Rab      2     90.      3    0.0        0
+ H                    4    R1       3    A1       2     0.       0
+ H                    4    R1       3    A1       2     120.     0
+ H                    4    R1       3    A1       2    -120.     0
+       Variables:
+  R1                   1.0125                   
+  A1                  111.5610       
+  Rah                   0.9572      
+               
+  Rab                   3.4361     
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ pop=ChelpG opt=z-matrix
+
+Title: Rab = 3.5361 Optimization
+
+0 1
+ F
+ X                    1     1. 
+ H                    1    Rah      2     90. 
+ N                    1    Rab      2     90.      3    0.0        0
+ H                    4    R1       3    A1       2     0.       0
+ H                    4    R1       3    A1       2     120.     0
+ H                    4    R1       3    A1       2    -120.     0
+       Variables:
+  R1                   1.0125                   
+  A1                  111.5610       
+  Rah                   0.9572      
+               
+  Rab                   3.5361     
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ pop=ChelpG opt=z-matrix
+
+Title: Rab = 3.6361 Optimization
+
+0 1
+ F
+ X                    1     1. 
+ H                    1    Rah      2     90. 
+ N                    1    Rab      2     90.      3    0.0        0
+ H                    4    R1       3    A1       2     0.       0
+ H                    4    R1       3    A1       2     120.     0
+ H                    4    R1       3    A1       2    -120.     0
+       Variables:
+  R1                   1.0125                   
+  A1                  111.5610       
+  Rah                   0.9572      
+               
+  Rab                   3.6361     
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ pop=ChelpG opt=z-matrix
+
+Title: Rab = 3.8361 Optimization
+
+0 1
+ F
+ X                    1     1. 
+ H                    1    Rah      2     90. 
+ N                    1    Rab      2     90.      3    0.0        0
+ H                    4    R1       3    A1       2     0.       0
+ H                    4    R1       3    A1       2     120.     0
+ H                    4    R1       3    A1       2    -120.     0
+       Variables:
+  R1                   1.0125                   
+  A1                  111.5610       
+  Rah                   0.9572      
+               
+  Rab                   3.8361     
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ pop=ChelpG opt=z-matrix
+
+Title: Rab = 4.0361 Optimization
+
+0 1
+ F
+ X                    1     1. 
+ H                    1    Rah      2     90. 
+ N                    1    Rab      2     90.      3    0.0        0
+ H                    4    R1       3    A1       2     0.       0
+ H                    4    R1       3    A1       2     120.     0
+ H                    4    R1       3    A1       2    -120.     0
+       Variables:
+  R1                   1.0125                   
+  A1                  111.5610       
+  Rah                   0.9572      
+               
+  Rab                   4.0361     
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ pop=ChelpG opt=z-matrix
+
+Title: Rab = 4.2361 Optimization
+
+0 1
+ F
+ X                    1     1. 
+ H                    1    Rah      2     90. 
+ N                    1    Rab      2     90.      3    0.0        0
+ H                    4    R1       3    A1       2     0.       0
+ H                    4    R1       3    A1       2     120.     0
+ H                    4    R1       3    A1       2    -120.     0
+       Variables:
+  R1                   1.0125                   
+  A1                  111.5610       
+  Rah                   0.9572      
+               
+  Rab                   4.2361     
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ pop=ChelpG opt=z-matrix
+
+Title: Rab = 4.4361 Optimization
+
+0 1
+ F
+ X                    1     1. 
+ H                    1    Rah      2     90. 
+ N                    1    Rab      2     90.      3    0.0        0
+ H                    4    R1       3    A1       2     0.       0
+ H                    4    R1       3    A1       2     120.     0
+ H                    4    R1       3    A1       2    -120.     0
+       Variables:
+  R1                   1.0125                   
+  A1                  111.5610       
+  Rah                   0.9572      
+               
+  Rab                   4.4361     
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ pop=ChelpG opt=z-matrix
+
+Title: Rab = 4.6361 Optimization
+
+0 1
+ F
+ X                    1     1. 
+ H                    1    Rah      2     90. 
+ N                    1    Rab      2     90.      3    0.0        0
+ H                    4    R1       3    A1       2     0.       0
+ H                    4    R1       3    A1       2     120.     0
+ H                    4    R1       3    A1       2    -120.     0
+       Variables:
+  R1                   1.0125                   
+  A1                  111.5610       
+  Rah                   0.9572      
+               
+  Rab                   4.6361     
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ pop=ChelpG opt=z-matrix
+
+Title: Rab = 4.8361 Optimization
+
+0 1
+ F
+ X                    1     1. 
+ H                    1    Rah      2     90. 
+ N                    1    Rab      2     90.      3    0.0        0
+ H                    4    R1       3    A1       2     0.       0
+ H                    4    R1       3    A1       2     120.     0
+ H                    4    R1       3    A1       2    -120.     0
+       Variables:
+  R1                   1.0125                   
+  A1                  111.5610       
+  Rah                   0.9572      
+               
+  Rab                   4.8361     
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ pop=ChelpG opt=z-matrix
+
+Title: Rab = 5.0361 Optimization
+
+0 1
+ F
+ X                    1     1. 
+ H                    1    Rah      2     90. 
+ N                    1    Rab      2     90.      3    0.0        0
+ H                    4    R1       3    A1       2     0.       0
+ H                    4    R1       3    A1       2     120.     0
+ H                    4    R1       3    A1       2    -120.     0
+       Variables:
+  R1                   1.0125                   
+  A1                  111.5610       
+  Rah                   0.9572      
+               
+  Rab                   5.0361     
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ pop=ChelpG opt=z-matrix
+
+Title: Rab = 5.2361 Optimization
+
+0 1
+ F
+ X                    1     1. 
+ H                    1    Rah      2     90. 
+ N                    1    Rab      2     90.      3    0.0        0
+ H                    4    R1       3    A1       2     0.       0
+ H                    4    R1       3    A1       2     120.     0
+ H                    4    R1       3    A1       2    -120.     0
+       Variables:
+  R1                   1.0125                   
+  A1                  111.5610       
+  Rah                   0.9572      
+               
+  Rab                   5.2361     
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ pop=ChelpG opt=z-matrix
+
+Title: Rab = 5.4361 Optimization
+
+0 1
+ F
+ X                    1     1. 
+ H                    1    Rah      2     90. 
+ N                    1    Rab      2     90.      3    0.0        0
+ H                    4    R1       3    A1       2     0.       0
+ H                    4    R1       3    A1       2     120.     0
+ H                    4    R1       3    A1       2    -120.     0
+       Variables:
+  R1                   1.0125                   
+  A1                  111.5610       
+  Rah                   0.9572      
+               
+  Rab                   5.4361     
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ pop=ChelpG opt=z-matrix
+
+Title: Rab = 5.6361 Optimization
+
+0 1
+ F
+ X                    1     1. 
+ H                    1    Rah      2     90. 
+ N                    1    Rab      2     90.      3    0.0        0
+ H                    4    R1       3    A1       2     0.       0
+ H                    4    R1       3    A1       2     120.     0
+ H                    4    R1       3    A1       2    -120.     0
+       Variables:
+  R1                   1.0125                   
+  A1                  111.5610       
+  Rah                   0.9572      
+               
+  Rab                   5.6361     
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ pop=ChelpG opt=z-matrix
+
+Title: Rab = 6.6361 Optimization
+
+0 1
+ F
+ X                    1     1. 
+ H                    1    Rah      2     90. 
+ N                    1    Rab      2     90.      3    0.0        0
+ H                    4    R1       3    A1       2     0.       0
+ H                    4    R1       3    A1       2     120.     0
+ H                    4    R1       3    A1       2    -120.     0
+       Variables:
+  R1                   1.0125                   
+  A1                  111.5610       
+  Rah                   0.9572      
+               
+  Rab                   6.6361     
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ pop=ChelpG opt=z-matrix
+
+Title: Rab = 7.6361 Optimization
+
+0 1
+ F
+ X                    1     1. 
+ H                    1    Rah      2     90. 
+ N                    1    Rab      2     90.      3    0.0        0
+ H                    4    R1       3    A1       2     0.       0
+ H                    4    R1       3    A1       2     120.     0
+ H                    4    R1       3    A1       2    -120.     0
+       Variables:
+  R1                   1.0125                   
+  A1                  111.5610       
+  Rah                   0.9572      
+               
+  Rab                   7.6361     
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ pop=ChelpG opt=z-matrix
+
+Title: Rab = 8.6361 Optimization
+
+0 1
+ F
+ X                    1     1. 
+ H                    1    Rah      2     90. 
+ N                    1    Rab      2     90.      3    0.0        0
+ H                    4    R1       3    A1       2     0.       0
+ H                    4    R1       3    A1       2     120.     0
+ H                    4    R1       3    A1       2    -120.     0
+       Variables:
+  R1                   1.0125                   
+  A1                  111.5610       
+  Rah                   0.9572      
+               
+  Rab                   8.6361     
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ pop=ChelpG opt=z-matrix
+
+Title: Rab = 9.6361 Optimization
+
+0 1
+ F
+ X                    1     1. 
+ H                    1    Rah      2     90. 
+ N                    1    Rab      2     90.      3    0.0        0
+ H                    4    R1       3    A1       2     0.       0
+ H                    4    R1       3    A1       2     120.     0
+ H                    4    R1       3    A1       2    -120.     0
+       Variables:
+  R1                   1.0125                   
+  A1                  111.5610       
+  Rah                   0.9572      
+               
+  Rab                   9.6361     
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ pop=ChelpG opt=z-matrix
+
+Title: Rab = 10.6361 Optimization
+
+0 1
+ F
+ X                    1     1. 
+ H                    1    Rah      2     90. 
+ N                    1    Rab      2     90.      3    0.0        0
+ H                    4    R1       3    A1       2     0.       0
+ H                    4    R1       3    A1       2     120.     0
+ H                    4    R1       3    A1       2    -120.     0
+       Variables:
+  R1                   1.0125                   
+  A1                  111.5610       
+  Rah                   0.9572      
+               
+  Rab                   10.6361     
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ pop=ChelpG opt=z-matrix
+
+Title: Rab = 12.6361 Optimization
+
+0 1
+ F
+ X                    1     1. 
+ H                    1    Rah      2     90. 
+ N                    1    Rab      2     90.      3    0.0        0
+ H                    4    R1       3    A1       2     0.       0
+ H                    4    R1       3    A1       2     120.     0
+ H                    4    R1       3    A1       2    -120.     0
+       Variables:
+  R1                   1.0125                   
+  A1                  111.5610       
+  Rah                   0.9572      
+               
+  Rab                   12.6361     
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ pop=ChelpG opt=z-matrix
+
+Title: Rab = 14.6361 Optimization
+
+0 1
+ F
+ X                    1     1. 
+ H                    1    Rah      2     90. 
+ N                    1    Rab      2     90.      3    0.0        0
+ H                    4    R1       3    A1       2     0.       0
+ H                    4    R1       3    A1       2     120.     0
+ H                    4    R1       3    A1       2    -120.     0
+       Variables:
+  R1                   1.0125                   
+  A1                  111.5610       
+  Rah                   0.9572      
+               
+  Rab                   14.6361     
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ pop=ChelpG opt=z-matrix
+
+Title: Rab = 16.6361 Optimization
+
+0 1
+ F
+ X                    1     1. 
+ H                    1    Rah      2     90. 
+ N                    1    Rab      2     90.      3    0.0        0
+ H                    4    R1       3    A1       2     0.       0
+ H                    4    R1       3    A1       2     120.     0
+ H                    4    R1       3    A1       2    -120.     0
+       Variables:
+  R1                   1.0125                   
+  A1                  111.5610       
+  Rah                   0.9572      
+               
+  Rab                   16.6361     
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ pop=ChelpG opt=z-matrix
+
+Title: Rab = 18.6361 Optimization
+
+0 1
+ F
+ X                    1     1. 
+ H                    1    Rah      2     90. 
+ N                    1    Rab      2     90.      3    0.0        0
+ H                    4    R1       3    A1       2     0.       0
+ H                    4    R1       3    A1       2     120.     0
+ H                    4    R1       3    A1       2    -120.     0
+       Variables:
+  R1                   1.0125                   
+  A1                  111.5610       
+  Rah                   0.9572      
+               
+  Rab                   18.6361     
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ pop=ChelpG opt=z-matrix
+
+Title: Rab = 20.6361 Optimization
+
+0 1
+ F
+ X                    1     1. 
+ H                    1    Rah      2     90. 
+ N                    1    Rab      2     90.      3    0.0        0
+ H                    4    R1       3    A1       2     0.       0
+ H                    4    R1       3    A1       2     120.     0
+ H                    4    R1       3    A1       2    -120.     0
+       Variables:
+  R1                   1.0125                   
+  A1                  111.5610       
+  Rah                   0.9572      
+               
+  Rab                   20.6361     
+

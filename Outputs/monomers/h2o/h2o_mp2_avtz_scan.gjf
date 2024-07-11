@@ -1,0 +1,335 @@
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG
+
+Title: R = 0.8613
+
+0 1
+O
+H 1 R1
+H 1 R2 2 A1
+
+R2=0.9613
+A1=104.1065
+R1=0.8613
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG
+
+Title: R = 0.8713
+
+0 1
+O
+H 1 R1
+H 1 R2 2 A1
+
+R2=0.9613
+A1=104.1065
+R1=0.8713
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG
+
+Title: R = 0.8813
+
+0 1
+O
+H 1 R1
+H 1 R2 2 A1
+
+R2=0.9613
+A1=104.1065
+R1=0.8813
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG
+
+Title: R = 0.8913
+
+0 1
+O
+H 1 R1
+H 1 R2 2 A1
+
+R2=0.9613
+A1=104.1065
+R1=0.8913
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG
+
+Title: R = 0.9013
+
+0 1
+O
+H 1 R1
+H 1 R2 2 A1
+
+R2=0.9613
+A1=104.1065
+R1=0.9013
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG
+
+Title: R = 0.9113
+
+0 1
+O
+H 1 R1
+H 1 R2 2 A1
+
+R2=0.9613
+A1=104.1065
+R1=0.9113
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG
+
+Title: R = 0.9213
+
+0 1
+O
+H 1 R1
+H 1 R2 2 A1
+
+R2=0.9613
+A1=104.1065
+R1=0.9213
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG
+
+Title: R = 0.9313
+
+0 1
+O
+H 1 R1
+H 1 R2 2 A1
+
+R2=0.9613
+A1=104.1065
+R1=0.9313
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG
+
+Title: R = 0.9413
+
+0 1
+O
+H 1 R1
+H 1 R2 2 A1
+
+R2=0.9613
+A1=104.1065
+R1=0.9413
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG
+
+Title: R = 0.9513
+
+0 1
+O
+H 1 R1
+H 1 R2 2 A1
+
+R2=0.9613
+A1=104.1065
+R1=0.9513
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG
+
+Title: R = 0.9613
+
+0 1
+O
+H 1 R1
+H 1 R2 2 A1
+
+R2=0.9613
+A1=104.1065
+R1=0.9613
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG
+
+Title: R = 0.9713
+
+0 1
+O
+H 1 R1
+H 1 R2 2 A1
+
+R2=0.9613
+A1=104.1065
+R1=0.9713
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG
+
+Title: R = 0.9813
+
+0 1
+O
+H 1 R1
+H 1 R2 2 A1
+
+R2=0.9613
+A1=104.1065
+R1=0.9813
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG
+
+Title: R = 0.9913
+
+0 1
+O
+H 1 R1
+H 1 R2 2 A1
+
+R2=0.9613
+A1=104.1065
+R1=0.9913
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG
+
+Title: R = 1.0013
+
+0 1
+O
+H 1 R1
+H 1 R2 2 A1
+
+R2=0.9613
+A1=104.1065
+R1=1.0013
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG
+
+Title: R = 1.0113
+
+0 1
+O
+H 1 R1
+H 1 R2 2 A1
+
+R2=0.9613
+A1=104.1065
+R1=1.0113
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG
+
+Title: R = 1.0213
+
+0 1
+O
+H 1 R1
+H 1 R2 2 A1
+
+R2=0.9613
+A1=104.1065
+R1=1.0213
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG
+
+Title: R = 1.0313
+
+0 1
+O
+H 1 R1
+H 1 R2 2 A1
+
+R2=0.9613
+A1=104.1065
+R1=1.0313
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG
+
+Title: R = 1.0413
+
+0 1
+O
+H 1 R1
+H 1 R2 2 A1
+
+R2=0.9613
+A1=104.1065
+R1=1.0413
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG
+
+Title: R = 1.0513
+
+0 1
+O
+H 1 R1
+H 1 R2 2 A1
+
+R2=0.9613
+A1=104.1065
+R1=1.0513
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG
+
+Title: R = 1.0613
+
+0 1
+O
+H 1 R1
+H 1 R2 2 A1
+
+R2=0.9613
+A1=104.1065
+R1=1.0613
+

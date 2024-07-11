@@ -1,0 +1,743 @@
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG opt=(z-matrix,MaxCycles=10000,CalcAll,MaxStep=1) freq SCF=QC
+
+Title: Rab = 3.0147 Aahb = 25.000000
+
+0 1
+ N1
+ X2                   1     1. 
+ H3                   1    Rah      2    Aahb
+ N4                   1    Rab      2     90.      3     0.       0
+ H5(Iso=2)                   4    R1       1    A1       2     180.     0
+ H6(Iso=2)                   4    R2       5    A2       1    D1       0
+ H7(Iso=2)                   4    R2       5    A2       1    -D1      0
+ H8(Iso=2)                   1    R3       3    A3       5    D2       0
+ H9(Iso=2)                   1    R3       3    A3       5    -D2      0
+       Variables:
+  R1                   1.0127                   
+  R2                   1.0125                    
+  R3                   1.0120                    
+  A1                   104.9325                     
+  A2                  106.7168                     
+  A3                  107.0911                     
+  D1                  123.1010                     
+  D2                  123.0327  
+  Rah                  1.0168       
+              
+  Rab                  3.0147  
+  Aahb                 115.0000
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG opt=(z-matrix,MaxCycles=10000,CalcAll,MaxStep=1) freq SCF=QC
+
+Title: Rab = 3.1147 Aahb = 25.000000
+
+0 1
+ N1
+ X2                   1     1. 
+ H3                   1    Rah      2    Aahb
+ N4                   1    Rab      2     90.      3     0.       0
+ H5(Iso=2)                   4    R1       1    A1       2     180.     0
+ H6(Iso=2)                   4    R2       5    A2       1    D1       0
+ H7(Iso=2)                   4    R2       5    A2       1    -D1      0
+ H8(Iso=2)                   1    R3       3    A3       5    D2       0
+ H9(Iso=2)                   1    R3       3    A3       5    -D2      0
+       Variables:
+  R1                   1.0127                   
+  R2                   1.0125                    
+  R3                   1.0120                    
+  A1                   104.9325                     
+  A2                  106.7168                     
+  A3                  107.0911                     
+  D1                  123.1010                     
+  D2                  123.0327  
+  Rah                  1.0168       
+              
+  Rab                  3.1147  
+  Aahb                 115.0000
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG opt=(z-matrix,MaxCycles=10000,CalcAll,MaxStep=1) freq SCF=QC
+
+Title: Rab = 3.2147 Aahb = 25.000000
+
+0 1
+ N1
+ X2                   1     1. 
+ H3                   1    Rah      2    Aahb
+ N4                   1    Rab      2     90.      3     0.       0
+ H5(Iso=2)                   4    R1       1    A1       2     180.     0
+ H6(Iso=2)                   4    R2       5    A2       1    D1       0
+ H7(Iso=2)                   4    R2       5    A2       1    -D1      0
+ H8(Iso=2)                   1    R3       3    A3       5    D2       0
+ H9(Iso=2)                   1    R3       3    A3       5    -D2      0
+       Variables:
+  R1                   1.0127                   
+  R2                   1.0125                    
+  R3                   1.0120                    
+  A1                   104.9325                     
+  A2                  106.7168                     
+  A3                  107.0911                     
+  D1                  123.1010                     
+  D2                  123.0327  
+  Rah                  1.0168       
+              
+  Rab                  3.2147  
+  Aahb                 115.0000
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG opt=(z-matrix,MaxCycles=10000,CalcAll,MaxStep=1) freq SCF=QC
+
+Title: Rab = 3.3147 Aahb = 25.000000
+
+0 1
+ N1
+ X2                   1     1. 
+ H3                   1    Rah      2    Aahb
+ N4                   1    Rab      2     90.      3     0.       0
+ H5(Iso=2)                   4    R1       1    A1       2     180.     0
+ H6(Iso=2)                   4    R2       5    A2       1    D1       0
+ H7(Iso=2)                   4    R2       5    A2       1    -D1      0
+ H8(Iso=2)                   1    R3       3    A3       5    D2       0
+ H9(Iso=2)                   1    R3       3    A3       5    -D2      0
+       Variables:
+  R1                   1.0127                   
+  R2                   1.0125                    
+  R3                   1.0120                    
+  A1                   104.9325                     
+  A2                  106.7168                     
+  A3                  107.0911                     
+  D1                  123.1010                     
+  D2                  123.0327  
+  Rah                  1.0168       
+              
+  Rab                  3.3147  
+  Aahb                 115.0000
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG opt=(z-matrix,MaxCycles=10000,CalcAll,MaxStep=1) freq SCF=QC
+
+Title: Rab = 3.4147 Aahb = 25.000000
+
+0 1
+ N1
+ X2                   1     1. 
+ H3                   1    Rah      2    Aahb
+ N4                   1    Rab      2     90.      3     0.       0
+ H5(Iso=2)                   4    R1       1    A1       2     180.     0
+ H6(Iso=2)                   4    R2       5    A2       1    D1       0
+ H7(Iso=2)                   4    R2       5    A2       1    -D1      0
+ H8(Iso=2)                   1    R3       3    A3       5    D2       0
+ H9(Iso=2)                   1    R3       3    A3       5    -D2      0
+       Variables:
+  R1                   1.0127                   
+  R2                   1.0125                    
+  R3                   1.0120                    
+  A1                   104.9325                     
+  A2                  106.7168                     
+  A3                  107.0911                     
+  D1                  123.1010                     
+  D2                  123.0327  
+  Rah                  1.0168       
+              
+  Rab                  3.4147  
+  Aahb                 115.0000
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG opt=(z-matrix,MaxCycles=10000,CalcAll,MaxStep=1) freq SCF=QC
+
+Title: Rab = 3.5147 Aahb = 25.000000
+
+0 1
+ N1
+ X2                   1     1. 
+ H3                   1    Rah      2    Aahb
+ N4                   1    Rab      2     90.      3     0.       0
+ H5(Iso=2)                   4    R1       1    A1       2     180.     0
+ H6(Iso=2)                   4    R2       5    A2       1    D1       0
+ H7(Iso=2)                   4    R2       5    A2       1    -D1      0
+ H8(Iso=2)                   1    R3       3    A3       5    D2       0
+ H9(Iso=2)                   1    R3       3    A3       5    -D2      0
+       Variables:
+  R1                   1.0127                   
+  R2                   1.0125                    
+  R3                   1.0120                    
+  A1                   104.9325                     
+  A2                  106.7168                     
+  A3                  107.0911                     
+  D1                  123.1010                     
+  D2                  123.0327  
+  Rah                  1.0168       
+              
+  Rab                  3.5147  
+  Aahb                 115.0000
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG opt=(z-matrix,MaxCycles=10000,CalcAll,MaxStep=1) freq SCF=QC
+
+Title: Rab = 3.6147 Aahb = 25.000000
+
+0 1
+ N1
+ X2                   1     1. 
+ H3                   1    Rah      2    Aahb
+ N4                   1    Rab      2     90.      3     0.       0
+ H5(Iso=2)                   4    R1       1    A1       2     180.     0
+ H6(Iso=2)                   4    R2       5    A2       1    D1       0
+ H7(Iso=2)                   4    R2       5    A2       1    -D1      0
+ H8(Iso=2)                   1    R3       3    A3       5    D2       0
+ H9(Iso=2)                   1    R3       3    A3       5    -D2      0
+       Variables:
+  R1                   1.0127                   
+  R2                   1.0125                    
+  R3                   1.0120                    
+  A1                   104.9325                     
+  A2                  106.7168                     
+  A3                  107.0911                     
+  D1                  123.1010                     
+  D2                  123.0327  
+  Rah                  1.0168       
+              
+  Rab                  3.6147  
+  Aahb                 115.0000
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG opt=(z-matrix,MaxCycles=10000,CalcAll,MaxStep=1) freq SCF=QC
+
+Title: Rab = 3.7147 Aahb = 25.000000
+
+0 1
+ N1
+ X2                   1     1. 
+ H3                   1    Rah      2    Aahb
+ N4                   1    Rab      2     90.      3     0.       0
+ H5(Iso=2)                   4    R1       1    A1       2     180.     0
+ H6(Iso=2)                   4    R2       5    A2       1    D1       0
+ H7(Iso=2)                   4    R2       5    A2       1    -D1      0
+ H8(Iso=2)                   1    R3       3    A3       5    D2       0
+ H9(Iso=2)                   1    R3       3    A3       5    -D2      0
+       Variables:
+  R1                   1.0127                   
+  R2                   1.0125                    
+  R3                   1.0120                    
+  A1                   104.9325                     
+  A2                  106.7168                     
+  A3                  107.0911                     
+  D1                  123.1010                     
+  D2                  123.0327  
+  Rah                  1.0168       
+              
+  Rab                  3.7147  
+  Aahb                 115.0000
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG opt=(z-matrix,MaxCycles=10000,CalcAll,MaxStep=1) freq SCF=QC
+
+Title: Rab = 3.8147 Aahb = 25.000000
+
+0 1
+ N1
+ X2                   1     1. 
+ H3                   1    Rah      2    Aahb
+ N4                   1    Rab      2     90.      3     0.       0
+ H5(Iso=2)                   4    R1       1    A1       2     180.     0
+ H6(Iso=2)                   4    R2       5    A2       1    D1       0
+ H7(Iso=2)                   4    R2       5    A2       1    -D1      0
+ H8(Iso=2)                   1    R3       3    A3       5    D2       0
+ H9(Iso=2)                   1    R3       3    A3       5    -D2      0
+       Variables:
+  R1                   1.0127                   
+  R2                   1.0125                    
+  R3                   1.0120                    
+  A1                   104.9325                     
+  A2                  106.7168                     
+  A3                  107.0911                     
+  D1                  123.1010                     
+  D2                  123.0327  
+  Rah                  1.0168       
+              
+  Rab                  3.8147  
+  Aahb                 115.0000
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG opt=(z-matrix,MaxCycles=10000,CalcAll,MaxStep=1) freq SCF=QC
+
+Title: Rab = 3.9147 Aahb = 25.000000
+
+0 1
+ N1
+ X2                   1     1. 
+ H3                   1    Rah      2    Aahb
+ N4                   1    Rab      2     90.      3     0.       0
+ H5(Iso=2)                   4    R1       1    A1       2     180.     0
+ H6(Iso=2)                   4    R2       5    A2       1    D1       0
+ H7(Iso=2)                   4    R2       5    A2       1    -D1      0
+ H8(Iso=2)                   1    R3       3    A3       5    D2       0
+ H9(Iso=2)                   1    R3       3    A3       5    -D2      0
+       Variables:
+  R1                   1.0127                   
+  R2                   1.0125                    
+  R3                   1.0120                    
+  A1                   104.9325                     
+  A2                  106.7168                     
+  A3                  107.0911                     
+  D1                  123.1010                     
+  D2                  123.0327  
+  Rah                  1.0168       
+              
+  Rab                  3.9147  
+  Aahb                 115.0000
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG opt=(z-matrix,MaxCycles=10000,CalcAll,MaxStep=1) freq SCF=QC
+
+Title: Rab = 4.0147 Aahb = 25.000000
+
+0 1
+ N1
+ X2                   1     1. 
+ H3                   1    Rah      2    Aahb
+ N4                   1    Rab      2     90.      3     0.       0
+ H5(Iso=2)                   4    R1       1    A1       2     180.     0
+ H6(Iso=2)                   4    R2       5    A2       1    D1       0
+ H7(Iso=2)                   4    R2       5    A2       1    -D1      0
+ H8(Iso=2)                   1    R3       3    A3       5    D2       0
+ H9(Iso=2)                   1    R3       3    A3       5    -D2      0
+       Variables:
+  R1                   1.0127                   
+  R2                   1.0125                    
+  R3                   1.0120                    
+  A1                   104.9325                     
+  A2                  106.7168                     
+  A3                  107.0911                     
+  D1                  123.1010                     
+  D2                  123.0327  
+  Rah                  1.0168       
+              
+  Rab                  4.0147  
+  Aahb                 115.0000
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG opt=(z-matrix,MaxCycles=10000,CalcAll,MaxStep=1) freq SCF=QC
+
+Title: Rab = 4.1147 Aahb = 25.000000
+
+0 1
+ N1
+ X2                   1     1. 
+ H3                   1    Rah      2    Aahb
+ N4                   1    Rab      2     90.      3     0.       0
+ H5(Iso=2)                   4    R1       1    A1       2     180.     0
+ H6(Iso=2)                   4    R2       5    A2       1    D1       0
+ H7(Iso=2)                   4    R2       5    A2       1    -D1      0
+ H8(Iso=2)                   1    R3       3    A3       5    D2       0
+ H9(Iso=2)                   1    R3       3    A3       5    -D2      0
+       Variables:
+  R1                   1.0127                   
+  R2                   1.0125                    
+  R3                   1.0120                    
+  A1                   104.9325                     
+  A2                  106.7168                     
+  A3                  107.0911                     
+  D1                  123.1010                     
+  D2                  123.0327  
+  Rah                  1.0168       
+              
+  Rab                  4.1147  
+  Aahb                 115.0000
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG opt=(z-matrix,MaxCycles=10000,CalcAll,MaxStep=1) freq SCF=QC
+
+Title: Rab = 4.2147 Aahb = 25.000000
+
+0 1
+ N1
+ X2                   1     1. 
+ H3                   1    Rah      2    Aahb
+ N4                   1    Rab      2     90.      3     0.       0
+ H5(Iso=2)                   4    R1       1    A1       2     180.     0
+ H6(Iso=2)                   4    R2       5    A2       1    D1       0
+ H7(Iso=2)                   4    R2       5    A2       1    -D1      0
+ H8(Iso=2)                   1    R3       3    A3       5    D2       0
+ H9(Iso=2)                   1    R3       3    A3       5    -D2      0
+       Variables:
+  R1                   1.0127                   
+  R2                   1.0125                    
+  R3                   1.0120                    
+  A1                   104.9325                     
+  A2                  106.7168                     
+  A3                  107.0911                     
+  D1                  123.1010                     
+  D2                  123.0327  
+  Rah                  1.0168       
+              
+  Rab                  4.2147  
+  Aahb                 115.0000
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG opt=(z-matrix,MaxCycles=10000,CalcAll,MaxStep=1) freq SCF=QC
+
+Title: Rab = 4.3147 Aahb = 25.000000
+
+0 1
+ N1
+ X2                   1     1. 
+ H3                   1    Rah      2    Aahb
+ N4                   1    Rab      2     90.      3     0.       0
+ H5(Iso=2)                   4    R1       1    A1       2     180.     0
+ H6(Iso=2)                   4    R2       5    A2       1    D1       0
+ H7(Iso=2)                   4    R2       5    A2       1    -D1      0
+ H8(Iso=2)                   1    R3       3    A3       5    D2       0
+ H9(Iso=2)                   1    R3       3    A3       5    -D2      0
+       Variables:
+  R1                   1.0127                   
+  R2                   1.0125                    
+  R3                   1.0120                    
+  A1                   104.9325                     
+  A2                  106.7168                     
+  A3                  107.0911                     
+  D1                  123.1010                     
+  D2                  123.0327  
+  Rah                  1.0168       
+              
+  Rab                  4.3147  
+  Aahb                 115.0000
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG opt=(z-matrix,MaxCycles=10000,CalcAll,MaxStep=1) freq SCF=QC
+
+Title: Rab = 4.5147 Aahb = 25.000000
+
+0 1
+ N1
+ X2                   1     1. 
+ H3                   1    Rah      2    Aahb
+ N4                   1    Rab      2     90.      3     0.       0
+ H5(Iso=2)                   4    R1       1    A1       2     180.     0
+ H6(Iso=2)                   4    R2       5    A2       1    D1       0
+ H7(Iso=2)                   4    R2       5    A2       1    -D1      0
+ H8(Iso=2)                   1    R3       3    A3       5    D2       0
+ H9(Iso=2)                   1    R3       3    A3       5    -D2      0
+       Variables:
+  R1                   1.0127                   
+  R2                   1.0125                    
+  R3                   1.0120                    
+  A1                   104.9325                     
+  A2                  106.7168                     
+  A3                  107.0911                     
+  D1                  123.1010                     
+  D2                  123.0327  
+  Rah                  1.0168       
+              
+  Rab                  4.5147  
+  Aahb                 115.0000
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG opt=(z-matrix,MaxCycles=10000,CalcAll,MaxStep=1) freq SCF=QC
+
+Title: Rab = 4.7147 Aahb = 25.000000
+
+0 1
+ N1
+ X2                   1     1. 
+ H3                   1    Rah      2    Aahb
+ N4                   1    Rab      2     90.      3     0.       0
+ H5(Iso=2)                   4    R1       1    A1       2     180.     0
+ H6(Iso=2)                   4    R2       5    A2       1    D1       0
+ H7(Iso=2)                   4    R2       5    A2       1    -D1      0
+ H8(Iso=2)                   1    R3       3    A3       5    D2       0
+ H9(Iso=2)                   1    R3       3    A3       5    -D2      0
+       Variables:
+  R1                   1.0127                   
+  R2                   1.0125                    
+  R3                   1.0120                    
+  A1                   104.9325                     
+  A2                  106.7168                     
+  A3                  107.0911                     
+  D1                  123.1010                     
+  D2                  123.0327  
+  Rah                  1.0168       
+              
+  Rab                  4.7147  
+  Aahb                 115.0000
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG opt=(z-matrix,MaxCycles=10000,CalcAll,MaxStep=1) freq SCF=QC
+
+Title: Rab = 4.9147 Aahb = 25.000000
+
+0 1
+ N1
+ X2                   1     1. 
+ H3                   1    Rah      2    Aahb
+ N4                   1    Rab      2     90.      3     0.       0
+ H5(Iso=2)                   4    R1       1    A1       2     180.     0
+ H6(Iso=2)                   4    R2       5    A2       1    D1       0
+ H7(Iso=2)                   4    R2       5    A2       1    -D1      0
+ H8(Iso=2)                   1    R3       3    A3       5    D2       0
+ H9(Iso=2)                   1    R3       3    A3       5    -D2      0
+       Variables:
+  R1                   1.0127                   
+  R2                   1.0125                    
+  R3                   1.0120                    
+  A1                   104.9325                     
+  A2                  106.7168                     
+  A3                  107.0911                     
+  D1                  123.1010                     
+  D2                  123.0327  
+  Rah                  1.0168       
+              
+  Rab                  4.9147  
+  Aahb                 115.0000
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG opt=(z-matrix,MaxCycles=10000,CalcAll,MaxStep=1) freq SCF=QC
+
+Title: Rab = 5.1147 Aahb = 25.000000
+
+0 1
+ N1
+ X2                   1     1. 
+ H3                   1    Rah      2    Aahb
+ N4                   1    Rab      2     90.      3     0.       0
+ H5(Iso=2)                   4    R1       1    A1       2     180.     0
+ H6(Iso=2)                   4    R2       5    A2       1    D1       0
+ H7(Iso=2)                   4    R2       5    A2       1    -D1      0
+ H8(Iso=2)                   1    R3       3    A3       5    D2       0
+ H9(Iso=2)                   1    R3       3    A3       5    -D2      0
+       Variables:
+  R1                   1.0127                   
+  R2                   1.0125                    
+  R3                   1.0120                    
+  A1                   104.9325                     
+  A2                  106.7168                     
+  A3                  107.0911                     
+  D1                  123.1010                     
+  D2                  123.0327  
+  Rah                  1.0168       
+              
+  Rab                  5.1147  
+  Aahb                 115.0000
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG opt=(z-matrix,MaxCycles=10000,CalcAll,MaxStep=1) freq SCF=QC
+
+Title: Rab = 5.3147 Aahb = 25.000000
+
+0 1
+ N1
+ X2                   1     1. 
+ H3                   1    Rah      2    Aahb
+ N4                   1    Rab      2     90.      3     0.       0
+ H5(Iso=2)                   4    R1       1    A1       2     180.     0
+ H6(Iso=2)                   4    R2       5    A2       1    D1       0
+ H7(Iso=2)                   4    R2       5    A2       1    -D1      0
+ H8(Iso=2)                   1    R3       3    A3       5    D2       0
+ H9(Iso=2)                   1    R3       3    A3       5    -D2      0
+       Variables:
+  R1                   1.0127                   
+  R2                   1.0125                    
+  R3                   1.0120                    
+  A1                   104.9325                     
+  A2                  106.7168                     
+  A3                  107.0911                     
+  D1                  123.1010                     
+  D2                  123.0327  
+  Rah                  1.0168       
+              
+  Rab                  5.3147  
+  Aahb                 115.0000
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG opt=(z-matrix,MaxCycles=10000,CalcAll,MaxStep=1) freq SCF=QC
+
+Title: Rab = 5.5147 Aahb = 25.000000
+
+0 1
+ N1
+ X2                   1     1. 
+ H3                   1    Rah      2    Aahb
+ N4                   1    Rab      2     90.      3     0.       0
+ H5(Iso=2)                   4    R1       1    A1       2     180.     0
+ H6(Iso=2)                   4    R2       5    A2       1    D1       0
+ H7(Iso=2)                   4    R2       5    A2       1    -D1      0
+ H8(Iso=2)                   1    R3       3    A3       5    D2       0
+ H9(Iso=2)                   1    R3       3    A3       5    -D2      0
+       Variables:
+  R1                   1.0127                   
+  R2                   1.0125                    
+  R3                   1.0120                    
+  A1                   104.9325                     
+  A2                  106.7168                     
+  A3                  107.0911                     
+  D1                  123.1010                     
+  D2                  123.0327  
+  Rah                  1.0168       
+              
+  Rab                  5.5147  
+  Aahb                 115.0000
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG opt=(z-matrix,MaxCycles=10000,CalcAll,MaxStep=1) freq SCF=QC
+
+Title: Rab = 5.7147 Aahb = 25.000000
+
+0 1
+ N1
+ X2                   1     1. 
+ H3                   1    Rah      2    Aahb
+ N4                   1    Rab      2     90.      3     0.       0
+ H5(Iso=2)                   4    R1       1    A1       2     180.     0
+ H6(Iso=2)                   4    R2       5    A2       1    D1       0
+ H7(Iso=2)                   4    R2       5    A2       1    -D1      0
+ H8(Iso=2)                   1    R3       3    A3       5    D2       0
+ H9(Iso=2)                   1    R3       3    A3       5    -D2      0
+       Variables:
+  R1                   1.0127                   
+  R2                   1.0125                    
+  R3                   1.0120                    
+  A1                   104.9325                     
+  A2                  106.7168                     
+  A3                  107.0911                     
+  D1                  123.1010                     
+  D2                  123.0327  
+  Rah                  1.0168       
+              
+  Rab                  5.7147  
+  Aahb                 115.0000
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG opt=(z-matrix,MaxCycles=10000,CalcAll,MaxStep=1) freq SCF=QC
+
+Title: Rab = 5.9147 Aahb = 25.000000
+
+0 1
+ N1
+ X2                   1     1. 
+ H3                   1    Rah      2    Aahb
+ N4                   1    Rab      2     90.      3     0.       0
+ H5(Iso=2)                   4    R1       1    A1       2     180.     0
+ H6(Iso=2)                   4    R2       5    A2       1    D1       0
+ H7(Iso=2)                   4    R2       5    A2       1    -D1      0
+ H8(Iso=2)                   1    R3       3    A3       5    D2       0
+ H9(Iso=2)                   1    R3       3    A3       5    -D2      0
+       Variables:
+  R1                   1.0127                   
+  R2                   1.0125                    
+  R3                   1.0120                    
+  A1                   104.9325                     
+  A2                  106.7168                     
+  A3                  107.0911                     
+  D1                  123.1010                     
+  D2                  123.0327  
+  Rah                  1.0168       
+              
+  Rab                  5.9147  
+  Aahb                 115.0000
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG opt=(z-matrix,MaxCycles=10000,CalcAll,MaxStep=1) freq SCF=QC
+
+Title: Rab = 6.1147 Aahb = 25.000000
+
+0 1
+ N1
+ X2                   1     1. 
+ H3                   1    Rah      2    Aahb
+ N4                   1    Rab      2     90.      3     0.       0
+ H5(Iso=2)                   4    R1       1    A1       2     180.     0
+ H6(Iso=2)                   4    R2       5    A2       1    D1       0
+ H7(Iso=2)                   4    R2       5    A2       1    -D1      0
+ H8(Iso=2)                   1    R3       3    A3       5    D2       0
+ H9(Iso=2)                   1    R3       3    A3       5    -D2      0
+       Variables:
+  R1                   1.0127                   
+  R2                   1.0125                    
+  R3                   1.0120                    
+  A1                   104.9325                     
+  A2                  106.7168                     
+  A3                  107.0911                     
+  D1                  123.1010                     
+  D2                  123.0327  
+  Rah                  1.0168       
+              
+  Rab                  6.1147  
+  Aahb                 115.0000
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG opt=(z-matrix,MaxCycles=10000,CalcAll,MaxStep=1) freq SCF=QC
+
+Title: Rab = 6.3147 Aahb = 25.000000
+
+0 1
+ N1
+ X2                   1     1. 
+ H3                   1    Rah      2    Aahb
+ N4                   1    Rab      2     90.      3     0.       0
+ H5(Iso=2)                   4    R1       1    A1       2     180.     0
+ H6(Iso=2)                   4    R2       5    A2       1    D1       0
+ H7(Iso=2)                   4    R2       5    A2       1    -D1      0
+ H8(Iso=2)                   1    R3       3    A3       5    D2       0
+ H9(Iso=2)                   1    R3       3    A3       5    -D2      0
+       Variables:
+  R1                   1.0127                   
+  R2                   1.0125                    
+  R3                   1.0120                    
+  A1                   104.9325                     
+  A2                  106.7168                     
+  A3                  107.0911                     
+  D1                  123.1010                     
+  D2                  123.0327  
+  Rah                  1.0168       
+              
+  Rab                  6.3147  
+  Aahb                 115.0000
+

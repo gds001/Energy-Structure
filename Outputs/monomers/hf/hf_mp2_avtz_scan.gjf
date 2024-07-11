@@ -1,0 +1,272 @@
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG
+
+Title: R = 0.8218
+
+0 1
+F
+H 1 R1
+
+R1=0.8218
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG
+
+Title: R = 0.8318
+
+0 1
+F
+H 1 R1
+
+R1=0.8318
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG
+
+Title: R = 0.8418
+
+0 1
+F
+H 1 R1
+
+R1=0.8418
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG
+
+Title: R = 0.8518
+
+0 1
+F
+H 1 R1
+
+R1=0.8518
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG
+
+Title: R = 0.8618
+
+0 1
+F
+H 1 R1
+
+R1=0.8618
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG
+
+Title: R = 0.8718
+
+0 1
+F
+H 1 R1
+
+R1=0.8718
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG
+
+Title: R = 0.8818
+
+0 1
+F
+H 1 R1
+
+R1=0.8818
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG
+
+Title: R = 0.8918
+
+0 1
+F
+H 1 R1
+
+R1=0.8918
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG
+
+Title: R = 0.9018
+
+0 1
+F
+H 1 R1
+
+R1=0.9018
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG
+
+Title: R = 0.9118
+
+0 1
+F
+H 1 R1
+
+R1=0.9118
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG
+
+Title: R = 0.9218
+
+0 1
+F
+H 1 R1
+
+R1=0.9218
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG
+
+Title: R = 0.9318
+
+0 1
+F
+H 1 R1
+
+R1=0.9318
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG
+
+Title: R = 0.9418
+
+0 1
+F
+H 1 R1
+
+R1=0.9418
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG
+
+Title: R = 0.9518
+
+0 1
+F
+H 1 R1
+
+R1=0.9518
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG
+
+Title: R = 0.9618
+
+0 1
+F
+H 1 R1
+
+R1=0.9618
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG
+
+Title: R = 0.9718
+
+0 1
+F
+H 1 R1
+
+R1=0.9718
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG
+
+Title: R = 0.9818
+
+0 1
+F
+H 1 R1
+
+R1=0.9818
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG
+
+Title: R = 0.9918
+
+0 1
+F
+H 1 R1
+
+R1=0.9918
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG
+
+Title: R = 1.0018
+
+0 1
+F
+H 1 R1
+
+R1=1.0018
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG
+
+Title: R = 1.0118
+
+0 1
+F
+H 1 R1
+
+R1=1.0118
+
+--Link1--
+%nproc=40
+%mem=50gb
+# mp2/aug-cc-pVTZ Pop=ChelpG
+
+Title: R = 1.0218
+
+0 1
+F
+H 1 R1
+
+R1=1.0218
+
