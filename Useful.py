@@ -172,5 +172,25 @@ def chain3(dydu,d2ydu2,d3ydu3,dudx,d2udx2,d3udx3):
 def chain4(dydu,d2ydu2,d3ydu3,d4ydu4,dudx,d2udx2,d3udx3,d4udx4):
     return d4ydu4*dudx**4+6*d3ydu3*dudx**2*d2udx2+d2ydu2*(4*dudx*d3udx3+3*d2udx2**2)+dydu*d4udx4
 
+def PointSlope(x1,x2,funcx,funcy,params):
+    m = (funcy(x1, *params) - funcy(x2, *params)) / (
+            funcx(x1,*params) - funcx(x2, *params))
+    b = funcy(x2, *params) - m * funcx(x2, *params)
+    return m,b
+
+def TrapSum(zs,funcx,funcy,params):
+    b=0
+    domain=0
+    for l in range(0, len(zs)):
+        temp = funcy(zs[l], *params)
+        mult = 0
+        if l != 0:
+            mult += (funcx(zs[l], *params) - funcx(zs[l - 1], *params)) / 2
+            domain+=(funcx(zs[l], *params) - funcx(zs[l - 1], *params))
+        if l != len(zs) - 1:
+            mult += (funcx(zs[l + 1], *params) - funcx(zs[l], *params)) / 2
+        b += temp * mult
+    return b / domain
+
 if __name__ == "__main__":
     print(redmass(mH,mO))
