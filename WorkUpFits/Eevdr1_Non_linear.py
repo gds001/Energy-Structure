@@ -16,9 +16,9 @@ def MSD(params, xs, ys, func):
 def MLD(params, xs, ys, func):
     return np.sum(np.log10(np.abs(ys - func(xs, *params)) + 1))
 
-files=["../d1_p2/Fits_NH3_NH3_Polar.json","../d1_p2/Fits_H2O_H2O_Polar.json","../d1_p2/Fits_HF_HF_Polar.json",
-       "../d1_p2/Fits_H2O_NH3_Polar.json","../d1_p2/Fits_HF_H2O_Polar.json","../d1_p2/Fits_HF_NH3_Polar.json"]
-filesvals=["../Outputs/dimers/nh3_nh3/nh3_nh3_linear_mp2_avtz_rab_aahb_opts.csv",
+files=["../Fitted_Potentials/d1_p2/Fits_NH3_NH3_Polar.json","../Fitted_Potentials/d1_p2/Fits_H2O_H2O_Polar.json","../Fitted_Potentials/d1_p2/Fits_HF_HF_Polar.json",
+       "../Fitted_Potentials/d1_p2/Fits_H2O_NH3_Polar.json","../Fitted_Potentials/d1_p2/Fits_HF_H2O_Polar.json","../Fitted_Potentials/d1_p2/Fits_HF_NH3_Polar.json"]
+filesvals=["../Outputs/dimers/nh3_nh3/nh3_nh3_mp2_avtz_rab_aahb_opts.csv",
        "../Outputs/dimers/h2o_h2o/h2o_h2o_mp2_avtz_rab_aahb_opts.csv",
        "../Outputs/dimers/hf_hf/hf_hf_mp2_avtz_rab_aahb_opts.csv",
        "../Outputs/dimers/h2o_nh3/h2o_nh3_mp2_avtz_rab_aahb_opts.csv",
@@ -38,7 +38,7 @@ for i in range(6):
     "fit": {"fun": 1,"x": [0,0,0,0,0,0,0,0,0,0]}})
         continue
 
-file = open("../DerivParams_All.json", 'r')
+file = open("../Finite_Difference_Values/DerivParams_All.json", 'r')
 string = file.read()
 file.close()
 data = json.loads(string)
